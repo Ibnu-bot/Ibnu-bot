@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ibnu Hasan</h1>
 <h3 align="center">A passionate Web Developer from Cirebon - Indonesia</h3>
 
-- 🌱 I’m currently learning **Laravel and React Js**
+- 🌱 I’m currently learning **Laravel and Golang**
 
 - 📫 How to reach me **ibnuibnu239@gmail.com**
 
